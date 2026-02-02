@@ -93,7 +93,7 @@ Notes
 This project was built as a portfolio case study reflecting real-world analytics scenarios and is suitable for interviews or freelance work.
 
 1st Page Exec Overview
-[Executive Overview.jpg
+![Executive Overview.jpg
 ](https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Executive%20Overview.jpg)
 
 Exec Overview Rotterdam Selection
