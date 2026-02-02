@@ -97,20 +97,20 @@ This project was built as a portfolio case study reflecting real-world analytics
 ](https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Executive%20Overview.jpg)
 
 Exec Overview Rotterdam Selection
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ExecutiveOverviewRotterdam.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ExecutiveOverviewRotterdam.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/ExecutiveOverviewRotterdam.jpg)
 
 2nd Page Project Performance
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ProjectPerformance.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ProjectPerformance.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/ProjectPerformance.jpg)
 
 Project Performance Selection
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/projectperformanceslicer.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/projectperformanceslicer.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/projectperformanceslicer.jpg)
 
 Contractor and Tech Performance
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Contractorstechperformance.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Contractorstechperformance.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/Contractorstechperformance.jpg)
 
 Contractor and Tech Performance Slicer
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/contractorstechperformancesliced.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/contractorstechperformancesliced.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/contractorstechperformancesliced.jpg)
 
 Financial and CashFlow Trends
-https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Finance%20and%20Cashflow.jpg
+![https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Finance%20and%20Cashflow.jpg](https://github.com/PatGeballa/DataAnalysis/blob/67a0b572ba243d86f4b519be613e77035fa6b08d/Finance%20and%20Cashflow.jpg)
 
