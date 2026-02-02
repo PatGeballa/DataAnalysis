@@ -92,6 +92,25 @@ Notes
 
 This project was built as a portfolio case study reflecting real-world analytics scenarios and is suitable for interviews or freelance work.
 
-Executive Overview.jpg
+1st Page Exec Overview
+[Executive Overview.jpg
+](https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Executive%20Overview.jpg)
 
-ExecutiveOverviewRotterdam.jpg
+Exec Overview Rotterdam Selection
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ExecutiveOverviewRotterdam.jpg
+
+2nd Page Project Performance
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/ProjectPerformance.jpg
+
+Project Performance Selection
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/projectperformanceslicer.jpg
+
+Contractor and Tech Performance
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Contractorstechperformance.jpg
+
+Contractor and Tech Performance Slicer
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/contractorstechperformancesliced.jpg
+
+Financial and CashFlow Trends
+https://github.com/PatGeballa/DataAnalysis/blob/eaed5e848ccf757596e227205e6e3dd2b1e28ae8/Finance%20and%20Cashflow.jpg
+
